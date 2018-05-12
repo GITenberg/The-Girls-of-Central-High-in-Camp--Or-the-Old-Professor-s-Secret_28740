@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2659
 description: The girls went camping on Acorn Island and had a delightful time at boating,
   swimming and picnic parties.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28740#The-Girls-of-Central-High-in-Camp--Or-the-Old-Professor-s-Secret
 gutenberg_issued: '2009-05-09'
 gutenberg_type: Text
 identifiers:
